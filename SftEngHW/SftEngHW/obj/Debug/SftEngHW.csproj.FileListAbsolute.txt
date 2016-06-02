@@ -1,0 +1,9 @@
+c:\users\boss.boss-pc\documents\visual studio 2015\Projects\SftEngHW\SftEngHW\bin\Debug\SftEngHW.exe.config
+c:\users\boss.boss-pc\documents\visual studio 2015\Projects\SftEngHW\SftEngHW\bin\Debug\SftEngHW.exe
+c:\users\boss.boss-pc\documents\visual studio 2015\Projects\SftEngHW\SftEngHW\bin\Debug\SftEngHW.pdb
+c:\users\boss.boss-pc\documents\visual studio 2015\Projects\SftEngHW\SftEngHW\obj\Debug\SftEngHW.csprojResolveAssemblyReference.cache
+c:\users\boss.boss-pc\documents\visual studio 2015\Projects\SftEngHW\SftEngHW\obj\Debug\SftEngHW.Form1.resources
+c:\users\boss.boss-pc\documents\visual studio 2015\Projects\SftEngHW\SftEngHW\obj\Debug\SftEngHW.Properties.Resources.resources
+c:\users\boss.boss-pc\documents\visual studio 2015\Projects\SftEngHW\SftEngHW\obj\Debug\SftEngHW.csproj.GenerateResource.Cache
+c:\users\boss.boss-pc\documents\visual studio 2015\Projects\SftEngHW\SftEngHW\obj\Debug\SftEngHW.exe
+c:\users\boss.boss-pc\documents\visual studio 2015\Projects\SftEngHW\SftEngHW\obj\Debug\SftEngHW.pdb
